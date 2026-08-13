@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech CSE (AI) student at Parul Institute of Engineering and Technology, Parul University, Vadodara
-- 🏢 Co-founder of **CAMPAIGNIX** — an AI marketing automation platform for Indian SMBs and D2C brands
+- 🏢 work to make **CAMPAIGNIX** — an AI marketing automation platform for Indian SMBs and D2C brands
 - 🏅 Microsoft Learn Student Ambassador (MLSA)
 - 🧠 Building AI agents, RAG pipelines, and full-stack products — from hackathon prototypes to production systems
 - 🏆 Active competitive programmer with a **CodeChef Gold Badge**, strong HackerRank hackathon record, and recruiting interest from HackerRank based on performance
