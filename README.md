@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anurag 👋</h1>
-<h3 align="center">B.Tech CSE (AI) student • Co-founder @ CAMPAIGNIX • Competitive Programmer</h3>
+<h3 align="center">B.Tech CSE (AI) student • Competitive Programmer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Learn-Student%20Ambassador-blue?style=flat-square&logo=microsoft" />
