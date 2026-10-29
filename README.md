@@ -2,7 +2,15 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00e5ff&height=200&section=header&text=ANURAG%20VERMA&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=58&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Identity+verified+%3A%3A+Anurag+Verma;B.Tech+CSE+(AI)+Student+%40+Parul+University;Competitive+Programmer+%C2%B7+CodeChef+Gold;AI+Agent+Builder+%C2%B7+Full+Stack+Developer;Currently+shipping+%3A%3A+Startup-AYUSH+%2F+CAMPAIGNIX+%2F+VIVORA" alt="Typing SVG" />
+<br>
+
+<img src="assets/profile.jpeg" alt="Anurag Verma" width="220"/>
+
+<br>
+
+<sub><i>"Still thinking. Always building."</i></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Identity+verified+%3A%3A+Anurag+Verma;B.Tech+CSE+(AI)+Student+%40+Parul+University;Competitive+Programmer+%C2%B7+CodeChef+Gold;AI+Agent+Builder+%C2%B7+Full+Stack+Developer;Currently+shipping+%3A%3A+Startup-AYUSH+%2F+CAMPAIGNIX+%2F+VIVORA" alt="Typing SVG" />
 
 <p>
   <a href="https://anurag-six.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00E5FF?style=for-the-badge&logo=vercel&logoColor=black"></a>
@@ -16,17 +24,6 @@
 ---
 
 ### 📍 About Me
-
-<table>
-<tr>
-<td width="38%" align="center" valign="top">
-
-<img src="assets/profile.jpeg" alt="Anurag Verma" width="100%"/>
-
-<sub><i>"Still thinking. Always building."</i></sub>
-
-</td>
-<td width="62%" valign="top">
 
 ## Most people *use* AI.<br>I teach it to **take action.**
 
@@ -43,10 +40,6 @@ const anurag = {
   status:     "open to the right opportunity 🚀"
 };
 ```
-
-</td>
-</tr>
-</table>
 
 <br>
 
