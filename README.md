@@ -8,7 +8,17 @@
 
 <br>
 
-<sub><i>"Still thinking. Always building."</i></sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00e5ff,100:0f2027&height=3" width="420" height="3"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1500&color=00E5FF&center=true&vCenter=true&width=700&height=60&lines=Still+thinking.;Always+building.;Still+thinking.+Always+building." alt="Still thinking. Always building."/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:00e5ff,100:0f2027&height=3" width="420" height="3"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/THINK-0f2027?style=for-the-badge"/> ▸ <img src="https://img.shields.io/badge/BUILD-203a43?style=for-the-badge"/> ▸ <img src="https://img.shields.io/badge/SHIP-00E5FF?style=for-the-badge"/>
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Identity+verified+%3A%3A+Anurag+Verma;B.Tech+CSE+(AI)+Student+%40+Parul+University;Competitive+Programmer+%C2%B7+CodeChef+Gold;AI+Agent+Builder+%C2%B7+Full+Stack+Developer;Currently+shipping+%3A%3A+Startup-AYUSH+%2F+CAMPAIGNIX+%2F+VIVORA" alt="Typing SVG" />
 
