@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/profile.jpeg" alt="Anurag Verma" width="220"/>
+<img src="assets/profile.jpeg" alt="Anurag Verma" width="420"/>
 
 <br>
 
