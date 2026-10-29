@@ -2,7 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00e5ff&height=200&section=header&text=ANURAG%20VERMA&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=58&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Identity+verified+%3A%3A+Anurag+Verma;B.Tech+CSE+(AI)+Student+%40+Parul+University;Competitive+Programmer+%C2%B7+CodeChef+Gold;AI+Agent+Builder+%C2%B7+Full+Stack+Developer;Currently+shipping+%3A%3A+CAMPAIGNIX+%2F+SIH1345" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=Identity+verified+%3A%3A+Anurag+Verma;B.Tech+CSE+(AI)+Student+%40+Parul+University;Competitive+Programmer+%C2%B7+CodeChef+Gold;AI+Agent+Builder+%C2%B7+Full+Stack+Developer;Currently+shipping+%3A%3A+CAMPAIGNIX+%2F+VIVORA" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/anurag-verma4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -16,7 +16,7 @@
 
 ### 📍 About Me
 
-I'm a B.Tech CSE (AI) student at Parul University (Semester 3, CGPA 8.15), spending most of my time building AI agent systems and full-stack products rather than just studying them. I compete regularly in HackerRank hackathons and hold a CodeChef Gold badge, and I like taking projects from a rough idea all the way to a deployed, demo-able product.
+I'm a B.Tech CSE (AI) student at Parul University, spending most of my time building AI agent systems and full-stack products rather than just studying them. I compete regularly in HackerRank hackathons and hold a CodeChef Gold badge, and I like taking projects from a rough idea all the way to a deployed, demo-able product.
 
 **Currently focused on:** AI agent orchestration (Groq + Gemini), RAG systems, and full-stack development with the MERN stack.
 
@@ -43,8 +43,21 @@ I'm a B.Tech CSE (AI) student at Parul University (Semester 3, CGPA 8.15), spend
 <tr>
 <td width="100%">
 
+#### 🎙️ VIVORA
+**AI viva & interview preparation platform**
+
+A multi-agent platform for viva and interview practice with separate school, college, and candidate modes, structured around ~30-minute sessions. Specialized agents drive the conversation flow so each session feels like a real examiner or interviewer rather than a static question bank.
+
+**Stack:** Multi-Agent Systems · LLMs · Frontend
+**Links:** [💻 VIVORA](https://github.com/Anu7276/VIVORA) · [🖥️ Frontend](https://github.com/Anu7276/vivora-frontend)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 #### 🛰️ Startup-AYUSH Portal — SIH1345
-**Smart India Hackathon 2026 · Team Lead, Team MindMesh**
+**Smart India Hackathon 2026 · Team MindMesh**
 
 A stakeholder collaboration platform built for the Ministry of AYUSH, bringing startups, investors, incubators, accelerators, and government agencies onto one platform to network, find mentorship, and showcase opportunities.
 
@@ -58,12 +71,26 @@ The standout feature is an **AI startup pitch evaluation system**, modeled on Ha
 <tr>
 <td width="100%">
 
+#### 📑 ProcureMind AI
+**Indian Standard Recommendation Engine · SIH**
+
+An AI system that recommends the right Indian Standards (BIS) for procurement and tenders, backed by a knowledge base of standards so buyers can quickly find which specifications apply to what they are purchasing.
+
+**Stack:** Python · RAG · LLMs
+**Links:** [💻 Repo](https://github.com/Anu7276/ProcureMind_AI)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 #### 🚨 Community Hero
 **Vibe2Ship Hackathon**
 
 An AI-powered civic issue reporting platform that lets citizens report problems and tracks them through resolution in real time, deployed live on Google Cloud Run. Beyond the working product, I built out full pitch materials — a proposal PDF and pitch deck — framing it as a real B2G SaaS play with licensing and government pilot partnerships, not just a hackathon demo.
 
 **Stack:** React · Node.js · Gemini 2.5 Flash · Firestore · Socket.io
+**Links:** [💻 Repo](https://github.com/Anu7276/community-hero)
 
 </td>
 </tr>
@@ -82,12 +109,39 @@ A pipeline that verifies insurance claims by reasoning jointly over text, images
 <tr>
 <td width="100%">
 
+#### 🎧 Multi-Domain Support Triage Agent
+**HackerRank Orchestrate — Rank #306 / 1,349**
+
+A support triage agent that handles tickets across multiple domains using a hybrid retrieval stack: FAISS for semantic search, BM25 for keyword matching, and a CrossEncoder to rerank results before answering or escalating.
+
+**Stack:** FAISS · BM25 · CrossEncoder · Python
+**Links:** [💻 Repo](https://github.com/Anu7276/ai-support-triage-pro-hackerRank-hackthon-)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 💸 AI-Powered Financial Agent
+**HackerRank Orchestrate — "Buy or Wait?"**
+
+An AI financial affordability decision engine: deterministic logic handles the actual money math, while Claude is used for extracting details from natural-language input, so the final recommendation stays consistent and explainable.
+
+**Stack:** Python · Claude · Deterministic Rules Engine
+**Links:** [💻 Repo](https://github.com/Anu7276/AI-powered-financial-agent)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
 #### 🤖 Maya — Personal AI Assistant
 **Flagship personal project**
 
 A personal AI assistant built around Groq/Llama 3.3 70B, with ChromaDB for long-term memory, SQLite for structured state, and a full voice pipeline (Faster-Whisper for input, Edge-TTS for output). What started as a conversational assistant later grew into a Windows-based **agentic system** capable of real-time tool use and direct system control — not just answering questions, but actually taking action on the machine.
 
 **Stack:** Groq · Llama 3.3 70B · ChromaDB · SQLite · Edge-TTS · Faster-Whisper
+**Links:** [💻 Repo](https://github.com/Anu7276/maya)
 
 </td>
 </tr>
@@ -100,6 +154,20 @@ A personal AI assistant built around Groq/Llama 3.3 70B, with ChromaDB for long-
 A multi-agent backend that turns a brand's basic info into a full "Marketing Intelligence & Campaign Strategy" PDF report — automatically. The pipeline runs a Firecrawl-based ingestion stage, then a chain of specialized agents (orchestrator, copywriting, creative brief, domain-specific modules for beauty/travel/etc.) that together produce brand intelligence, a competitor gap analysis, a 21-day content calendar, and per-post copywriting and creative production briefs, compiled into one polished report.
 
 **Stack:** Python · Firecrawl · Multi-Agent Systems · PDF Generation
+**Links:** [💻 Repo](https://github.com/pranav2312-cmd/Campaignix)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+#### 🎓 College Discovery Platform
+**Full-stack internship task**
+
+A college discovery platform built as a full-stack screening task, designed and shipped in a few days with search, browsing, and comparison of colleges.
+
+**Stack:** Full Stack · REST APIs
+**Links:** [💻 Repo](https://github.com/Anu7276/College-Discovery-Platform)
 
 </td>
 </tr>
@@ -119,6 +187,30 @@ Built twice, deliberately: first as a React / Node.js / Socket.io real-time mult
 
 ---
 
+### 🧪 More Projects
+
+<div align="center">
+
+| Project | What it is |
+|:---|:---|
+| [travelloop-odoo-hackthon](https://github.com/Anu7276/travelloop-odoo-hackthon) | Travel planning app built for the Odoo hackathon |
+| [ml-mode-car-prediction](https://github.com/Anu7276/ml-mode-car-prediction) | Machine learning model for car prediction |
+| [Warriorhacks-2.0](https://github.com/Anu7276/Warriorhacks-2.0) | Hackathon project — WarriorHacks 2.0 |
+| [hack-the-phone](https://github.com/Anu7276/hack-the-phone) | Hackathon project |
+| [friday](https://github.com/Anu7276/friday) | AI assistant experiment |
+| [tcs-clone](https://github.com/Anu7276/tcs-clone) | TCS website clone — frontend practice |
+| [netflix-clone](https://github.com/Anu7276/netflix-clone) | Netflix UI clone — frontend practice |
+| [amazon](https://github.com/Anu7276/amazon) | Amazon UI clone — frontend practice |
+| [Shoes_Store](https://github.com/Anu7276/Shoes_Store) | E-commerce shoe store frontend |
+| [fitness-gym](https://github.com/Anu7276/fitness-gym) | Fitness and gym website |
+| [shreyaportfolio](https://github.com/Anu7276/shreyaportfolio) | Portfolio website |
+| [Mario_game](https://github.com/Anu7276/Mario_game) | Mario-style browser game |
+| [JS-practice](https://github.com/Anu7276/JS-practice) | JavaScript practice and exercises |
+
+</div>
+
+---
+
 ### 🏅 Competitive Programming & Hackathons
 
 <div align="center">
@@ -128,7 +220,7 @@ Built twice, deliberately: first as a React / Node.js / Socket.io real-time mult
 | 🥇 CodeChef | **Gold Badge** |
 | 🏆 HackerRank Orchestrate — June 2026 | **Rank #119 / 1,773** (Top ~7%) — Multimodal insurance claim pipeline, 100% accuracy |
 | 🥈 HackerRank Orchestrate — May 2026 | **Rank #306 / 1,349** — Multi-domain support triage agent (FAISS + BM25 + CrossEncoder) |
-| 🇮🇳 Smart India Hackathon 2026 (Internal) | **Team Lead**, Team MindMesh — SIH1345 Startup-AYUSH Portal |
+| 🇮🇳 Smart India Hackathon 2026 (Internal) | Team MindMesh — SIH1345 Startup-AYUSH Portal |
 | 📩 Recruiting | Direct outreach received from HackerRank based on hackathon performance |
 
 </div>
@@ -156,7 +248,7 @@ Built twice, deliberately: first as a React / Node.js / Socket.io real-time mult
 | ✅ | Build real-world AI + full stack projects |
 | ✅ | Compete in national-level hackathons (SIH, HackerRank Orchestrate) |
 | 🔄 | Deepen DSA & system design |
-| 🔄 | Ship CAMPAIGNIX to production |
+| 🔄 | Ship CAMPAIGNIX and VIVORA to production |
 | 🔄 | Contribute to open source |
 | 🔄 | Land a top-tier SDE internship |
 
