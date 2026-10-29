@@ -284,8 +284,10 @@ Built twice, deliberately: first as a React / Node.js / Socket.io real-time mult
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anu7276&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anu7276&theme=radical&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anu7276&theme=radical" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anu7276&theme=radical" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Anu7276&theme=radical&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" height="165"/>
 
 </div>
 
