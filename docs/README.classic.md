@@ -232,7 +232,6 @@ Built twice, deliberately: first as a React / Node.js / Socket.io real-time mult
 | [amazon](https://github.com/Anu7276/amazon) | Amazon UI clone, frontend practice |
 | [Shoes_Store](https://github.com/Anu7276/Shoes_Store) | E-commerce shoe store frontend |
 | [fitness-gym](https://github.com/Anu7276/fitness-gym) | Fitness and gym website |
-| [shreyaportfolio](https://github.com/Anu7276/shreyaportfolio) | Portfolio website |
 | [Mario_game](https://github.com/Anu7276/Mario_game) | Mario-style browser game |
 | [JS-practice](https://github.com/Anu7276/JS-practice) | JavaScript practice and exercises |
 
