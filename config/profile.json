@@ -1,0 +1,188 @@
+{
+  "_help": "Edit this file, then run `make 3d`. Colors accept a palette name (orange, red, amber, yellow, lava, coral, blue) or any #rrggbb hex.",
+  "identity": {
+    "handle": "Anu7276",
+    "terminal": "anurag@trainer-hq ~ $ adventure --start",
+    "greeting": "Hi, I'm",
+    "first_name": "ANURAG",
+    "last_name": "VERMA",
+    "role": "Software Developer  |  AI / ML Enthusiast",
+    "tagline": "Still thinking. Always building."
+  },
+  "hero_chips": [
+    {
+      "label": "CODECHEF GOLD",
+      "color": "amber"
+    },
+    {
+      "label": "TOP 7% GLOBAL",
+      "color": "orange"
+    },
+    {
+      "label": "OPEN TO WORK",
+      "color": "yellow"
+    }
+  ],
+  "stats": {
+    "title": "// TRAINER DASHBOARD  ::  3D STATS",
+    "pillars": [
+      {
+        "value": "#119",
+        "label": "GLOBAL RANK",
+        "height": 90,
+        "color": "orange"
+      },
+      {
+        "value": "GOLD",
+        "label": "CODECHEF",
+        "height": 115,
+        "color": "amber"
+      },
+      {
+        "value": "100%",
+        "label": "CLAIM PIPELINE",
+        "height": 140,
+        "color": "red"
+      },
+      {
+        "value": "TOP 7%",
+        "label": "HACKERRANK",
+        "height": 75,
+        "color": "yellow"
+      }
+    ]
+  },
+  "skills": {
+    "title": "// TOOLS IN MY BACKPACK  ::  FULL STACK . AI . DSA",
+    "cubes": [
+      "Groq",
+      "Gemini",
+      "FAISS",
+      "Chroma",
+      "Agents",
+      "React",
+      "Next.js",
+      "Node",
+      "TS",
+      "MongoDB",
+      "Postgres",
+      "Prisma",
+      "SQLite",
+      "Java",
+      "C++",
+      "Python",
+      "Git",
+      "FastAPI"
+    ],
+    "colors": [
+      "orange",
+      "amber",
+      "red",
+      "yellow",
+      "coral",
+      "#ff9f5a"
+    ]
+  },
+  "squad": {
+    "title": "// THE SQUAD  ::  PICK YOUR PARTNER"
+  },
+  "contact": {
+    "headline": "Let's build something legendary",
+    "subline": "// open to the right opportunity  .  freelance  .  collabs",
+    "buttons": [
+      {
+        "label": "PORTFOLIO",
+        "text": "anurag-six.vercel.app",
+        "color": "orange"
+      },
+      {
+        "label": "LINKEDIN",
+        "text": "in/anurag-verma4",
+        "color": "blue"
+      },
+      {
+        "label": "GITHUB",
+        "text": "@Anu7276",
+        "color": "amber"
+      }
+    ]
+  },
+  "footer": {
+    "title": "CODE . BUILD . LEARN . EVOLVE",
+    "subline": "Adventure awaits. Keep coding, keep growing."
+  },
+  "chapters": [
+    {
+      "key": "about",
+      "label": "CHAPTER 01",
+      "title": "About the Trainer"
+    },
+    {
+      "key": "receipts",
+      "label": "CHAPTER 02",
+      "title": "Receipts, Not Claims"
+    },
+    {
+      "key": "projects",
+      "label": "CHAPTER 03",
+      "title": "Quest Log"
+    },
+    {
+      "key": "more",
+      "label": "CHAPTER 04",
+      "title": "Side Quests"
+    },
+    {
+      "key": "hackathons",
+      "label": "CHAPTER 05",
+      "title": "Gym Battles"
+    },
+    {
+      "key": "analytics",
+      "label": "CHAPTER 06",
+      "title": "Trainer Analytics"
+    },
+    {
+      "key": "mission",
+      "label": "CHAPTER 07",
+      "title": "Current Mission"
+    },
+    {
+      "key": "connect",
+      "label": "CHAPTER 08",
+      "title": "Join My Team"
+    },
+    {
+      "key": "contrib",
+      "label": "BONUS STAGE",
+      "title": "3D Contribution City"
+    }
+  ],
+  "about": {
+    "kicker": "// MY TRAINER HQ",
+    "title_1": "Think it,",
+    "title_2": "then ship it.",
+    "sub": "AI agent builder  .  B.Tech CSE (AI) @ Parul University",
+    "cards": [
+      {
+        "title": "AGENTS THAT ACT",
+        "text": "Read pitch decks, verify claims, run voice interviews.",
+        "color": "orange",
+        "icon": "arrow"
+      },
+      {
+        "title": "MULTI-AGENT TEAM",
+        "text": "Groq + Gemini orchestration, RAG that doesn't hallucinate.",
+        "color": "amber",
+        "icon": "nodes"
+      },
+      {
+        "title": "IDEA TO DEPLOYED",
+        "text": "From a messy 2 AM sketch to a demo-able product.",
+        "color": "red",
+        "icon": "rocket"
+      }
+    ],
+    "quote": "If it can't be demoed, it isn't done."
+  }
+}

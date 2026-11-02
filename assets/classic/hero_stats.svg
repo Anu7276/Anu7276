@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="112" viewBox="0 0 1000 112"><defs><linearGradient id="cardbg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#160d0a"/><stop offset="1" stop-color="#1f120d"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7a3320"/><stop offset="0.5" stop-color="#ffb347"/><stop offset="1" stop-color="#7a3320"/></linearGradient><style>
+.bob{animation:bob 2.4s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+.tail{animation:wag 1.8s ease-in-out infinite alternate}
+@keyframes wag{from{transform:rotate(-5deg)}to{transform:rotate(7deg)}}
+.wave{animation:wave .9s ease-in-out infinite alternate}
+@keyframes wave{from{transform:rotate(-18deg)}to{transform:rotate(22deg)}}
+.blink{transform-box:fill-box;transform-origin:center;animation:blink 4.5s infinite}
+@keyframes blink{0%,94%,100%{transform:scaleY(1)}97%{transform:scaleY(.08)}}
+.twinkle{animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+.rise{animation:rise 4s ease-in infinite}
+@keyframes rise{0%{transform:translateY(0);opacity:0}15%{opacity:.9}100%{transform:translateY(-120px);opacity:0}}
+.smoke{animation:smoke 6s ease-out infinite}
+@keyframes smoke{0%{transform:translate(0,0) scale(.6);opacity:0}20%{opacity:.5}100%{transform:translate(20px,-90px) scale(1.8);opacity:0}}
+.pulse{animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.drift{animation:drift 30s linear infinite}
+@keyframes drift{from{transform:translateX(-120px)}to{transform:translateX(1120px)}}
+.dash{stroke-dasharray:8 8;animation:dash 1.2s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-16}}
+.glow{animation:glow 2.5s ease-in-out infinite}
+@keyframes glow{0%,100%{opacity:.55}50%{opacity:.95}}
+.hop{animation:hop 1.4s ease-in-out infinite}
+@keyframes hop{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow 2s ease-out both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+</style></defs><rect x="1" y="1" width="998" height="110" rx="22" fill="url(#cardbg)" stroke="url(#edge)" stroke-width="2"/><g transform="translate(30,26)"><rect width="164" height="60" rx="14" fill="#251410" stroke="#7a3320" stroke-width="1.5"/><text x="82" y="30" font-family="'Trebuchet MS','Comic Sans MS','Segoe UI',Verdana,sans-serif" font-size="24" fill="#ffd54a" font-weight="900" text-anchor="middle" >#119</text><text x="82" y="48" font-family="'Courier New',Consolas,Menlo,monospace" font-size="9" fill="#c9aa9c" font-weight="bold" text-anchor="middle" >HACKERRANK / 1,773</text></g><g transform="translate(206,26)"><rect width="164" height="60" rx="14" fill="#251410" stroke="#7a3320" stroke-width="1.5"/><text x="82" y="30" font-family="'Trebuchet MS','Comic Sans MS','Segoe UI',Verdana,sans-serif" font-size="24" fill="#ffb347" font-weight="900" text-anchor="middle" >GOLD</text><text x="82" y="48" font-family="'Courier New',Consolas,Menlo,monospace" font-size="9" fill="#c9aa9c" font-weight="bold" text-anchor="middle" >CODECHEF BADGE</text></g><g transform="translate(382,26)"><rect width="164" height="60" rx="14" fill="#251410" stroke="#7a3320" stroke-width="1.5"/><text x="82" y="30" font-family="'Trebuchet MS','Comic Sans MS','Segoe UI',Verdana,sans-serif" font-size="24" fill="#ff6a3d" font-weight="900" text-anchor="middle" >100%</text><text x="82" y="48" font-family="'Courier New',Consolas,Menlo,monospace" font-size="9" fill="#c9aa9c" font-weight="bold" text-anchor="middle" >CLAIM PIPELINE</text></g><g transform="translate(558,26)"><rect width="164" height="60" rx="14" fill="#251410" stroke="#7a3320" stroke-width="1.5"/><text x="82" y="30" font-family="'Trebuchet MS','Comic Sans MS','Segoe UI',Verdana,sans-serif" font-size="24" fill="#ff8f7a" font-weight="900" text-anchor="middle" >TOP 7%</text><text x="82" y="48" font-family="'Courier New',Consolas,Menlo,monospace" font-size="9" fill="#c9aa9c" font-weight="bold" text-anchor="middle" >GLOBAL, JUN 2026</text></g><g transform="translate(740,26)"><rect width="230" height="60" rx="14" fill="#3a1a10" stroke="#ffb347" stroke-width="1.5"/><circle class="pulse" cx="26" cy="30" r="7" fill="#ffb347"/><text x="44" y="28" font-family="'Trebuchet MS','Comic Sans MS','Segoe UI',Verdana,sans-serif" font-size="12" fill="#ffb347" font-weight="900" text-anchor="start" >OPEN TO THE RIGHT</text><text x="44" y="46" font-family="'Trebuchet MS','Comic Sans MS','Segoe UI',Verdana,sans-serif" font-size="12" fill="#ffb347" font-weight="900" text-anchor="start" >OPPORTUNITY</text></g></svg>
