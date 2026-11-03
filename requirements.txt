@@ -1,3 +1,0 @@
-pillow
-markdown-it-py
-playwright

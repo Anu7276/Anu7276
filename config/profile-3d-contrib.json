@@ -1,0 +1,13 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-fire.svg",
+    "backgroundColor": "#120A08",
+    "foregroundColor": "#FFF1E0",
+    "strongColor": "#FFB347",
+    "weakColor": "#7A3320",
+    "radarColor": "#FF6A3D",
+    "growingAnimation": true,
+    "contribColors": ["#2A1710", "#7A3320", "#C4491F", "#FF6A3D", "#FFB347"]
+  }
+]
