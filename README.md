@@ -70,69 +70,70 @@ const anurag = {
 
 <img src="assets/h_projects.svg" alt="Quest Log" width="100%"/>
 
-<img src="assets/quests.svg" alt="Quest Board — Boss and Featured Quests" width="100%"/>
+<div align="center">
+
+<a href="https://sih-hackathon-internal.vercel.app/"><img src="assets/card_boss_ayush.svg" alt="BOSS QUEST: Startup-AYUSH Portal (SIH1345)" width="100%"/></a>
+
+[🔗 Live Demo](https://sih-hackathon-internal.vercel.app/) · [💻 GitHub Repo](https://github.com/Anu7276/SIH-hackthon-INTERNAL-)
 
 <table>
 <tr>
-<td colspan="2">
-
-#### 👑 BOSS QUEST · ⚡ Startup-AYUSH Portal (SIH1345) — `Smart India Hackathon 2026 · Team MindMesh`
-Stakeholder hub for the Ministry of AYUSH with a **multimodal pitch-deck intake agent**, web-grounded market check, and a **~20-min adaptive AI voice interview** scored `/30` via FAISS RAG.
-`Gemini` · `Groq` · `FAISS` · `Voice AI` &nbsp;—&nbsp; [🔗 Live Demo](https://sih-hackathon-internal.vercel.app/) · [💻 Repo](https://github.com/Anu7276/SIH-hackthon-INTERNAL-)
-
+<td width="50%" align="center">
+<img src="assets/card_claim_verifier.svg" alt="Insurance Claim Verifier" width="100%"/>
+<sub>🏆 HackerRank Orchestrate · Top 7% Globally</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Anu7276/maya"><img src="assets/card_maya.svg" alt="Maya — Personal AI" width="100%"/></a>
+<sub><a href="https://github.com/Anu7276/maya">💻 GitHub Repo</a></sub>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🏆 Insurance Claim Verifier `MYTHIC`
-**HackerRank Orchestrate · #119 / 1,773 (Top 7%)**
-Jointly reasons over text, images & docs with disk caching — **100% accuracy** & direct HackerRank outreach.
-`Groq` · `Gemini 2.5 Flash` · `Multimodal`
-
+<td width="50%" align="center">
+<a href="https://github.com/Anu7276/VIVORA"><img src="assets/card_vivora.svg" alt="VIVORA" width="100%"/></a>
+<sub><a href="https://github.com/Anu7276/VIVORA">💻 Core Repo</a> · <a href="https://github.com/Anu7276/vivora-frontend">🖥️ Frontend</a></sub>
 </td>
-<td width="50%" valign="top">
-
-#### 🤖 Maya — Personal AI Agent `LEGENDARY`
-**Flagship Desktop Assistant**
-Full voice pipeline + ChromaDB/SQLite memory + real Windows tool control.
-`Llama 3.3 70B` · `ChromaDB` · `Whisper` · [💻 Repo](https://github.com/Anu7276/maya)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎙️ VIVORA `EPIC`
-**AI Viva & Interview Simulator**
-Multi-agent examiner driving ~30-min adaptive school, college & candidate sessions.
-`Multi-Agent` · `LLMs` · [💻 Core](https://github.com/Anu7276/VIVORA) · [🖥️ UI](https://github.com/Anu7276/vivora-frontend)
-
-</td>
-<td width="50%" valign="top">
-
-#### 📈 CAMPAIGNIX `EPIC`
-**AI Marketing Automation for SMBs & D2C**
-Firecrawl ingestion + agent chain generating competitor gaps, 21-day calendars & PDF briefs.
-`Python` · `Firecrawl` · `Multi-Agent` · [💻 Repo](https://github.com/pranav2312-cmd/Campaignix)
-
+<td width="50%" align="center">
+<a href="https://github.com/pranav2312-cmd/Campaignix"><img src="assets/card_campaignix.svg" alt="CAMPAIGNIX" width="100%"/></a>
+<sub><a href="https://github.com/pranav2312-cmd/Campaignix">💻 GitHub Repo</a></sub>
 </td>
 </tr>
 </table>
 
+</div>
+
 <details>
-<summary><b>🗺️ Open Quest Archive — 5 More Main Quests (Hackathons &amp; Full-Stack)</b></summary>
+<summary><b>🗺️ Open Quest Archive — 5 More Animated Quest Cards</b></summary>
 
 <div align="center">
-
-| Quest | Event / Type | What it does | Stack | Link |
-|:---|:---|:---|:---|:---|
-| 🚨 **Community Hero** | Vibe2Ship · Cloud Run | Real-time civic issue tracker + full B2G SaaS pitch deck | React · Node · Gemini · Firestore | [💻 Repo](https://github.com/Anu7276/community-hero) |
-| 🎧 **Support Triage Agent** | HackerRank `#306 / 1,349` | Hybrid semantic + keyword ticket triage & escalation | FAISS · BM25 · CrossEncoder | [💻 Repo](https://github.com/Anu7276/ai-support-triage-pro-hackerRank-hackthon-) |
-| 📑 **ProcureMind AI** | SIH | Recommends Indian Standards (BIS) for procurement tenders | Python · RAG · LLMs | [💻 Repo](https://github.com/Anu7276/ProcureMind_AI) |
-| 💸 **AI Financial Agent** | HackerRank Orchestrate | "Buy or Wait?" — deterministic math + Claude NL extraction | Python · Claude · Rules Engine | [💻 Repo](https://github.com/Anu7276/AI-powered-financial-agent) |
-| 🎓 **College Discovery** | Full-Stack Internship | Search, browse & compare colleges built in a few days | Full Stack · REST APIs | [💻 Repo](https://github.com/Anu7276/College-Discovery-Platform) |
-
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Anu7276/community-hero"><img src="assets/card_community_hero.svg" alt="Community Hero" width="100%"/></a>
+<sub><a href="https://github.com/Anu7276/community-hero">💻 GitHub Repo</a></sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Anu7276/ai-support-triage-pro-hackerRank-hackthon-"><img src="assets/card_support_triage.svg" alt="Support Triage Agent" width="100%"/></a>
+<sub><a href="https://github.com/Anu7276/ai-support-triage-pro-hackerRank-hackthon-">💻 GitHub Repo</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Anu7276/ProcureMind_AI"><img src="assets/card_procuremind.svg" alt="ProcureMind AI" width="100%"/></a>
+<sub><a href="https://github.com/Anu7276/ProcureMind_AI">💻 GitHub Repo</a></sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Anu7276/AI-powered-financial-agent"><img src="assets/card_financial_agent.svg" alt="AI Financial Agent" width="100%"/></a>
+<sub><a href="https://github.com/Anu7276/AI-powered-financial-agent">💻 GitHub Repo</a></sub>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/Anu7276/College-Discovery-Platform"><img src="assets/card_college_discovery.svg" alt="College Discovery" width="49%"/></a>
+<br/>
+<sub><a href="https://github.com/Anu7276/College-Discovery-Platform">💻 GitHub Repo</a></sub>
+</td>
+</tr>
+</table>
 </div>
 
 </details>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="186" viewBox="0 0 480 186">
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e0f0b"/>
+      <stop offset="1" stop-color="#120a08"/>
+    </linearGradient>
+    <linearGradient id="cbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7a3320"/>
+      <stop offset="1" stop-color="#ff6a3d"/>
+    </linearGradient>
+    <linearGradient id="cshine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="rgba(255,179,71,0)"/>
+      <stop offset="0.5" stop-color="rgba(255,179,71,0.11)"/>
+      <stop offset="1" stop-color="rgba(255,179,71,0)"/>
+    </linearGradient>
+    <clipPath id="cclip"><rect x="3" y="3" width="474" height="180" rx="12"/></clipPath>
+    <style>
+      .pulse{animation:pulse 1.8s ease-in-out infinite}
+      @keyframes pulse{0%,100%{opacity:1}50%{opacity:.32}}
+      .sweep{animation:sweep 6s ease-in-out infinite}
+      @keyframes sweep{0%{transform:translateX(-160px)}45%,100%{transform:translateX(520px)}}
+      .rise{animation:rise 4.2s ease-in infinite}
+      @keyframes rise{0%{transform:translateY(0);opacity:0}20%{opacity:.85}100%{transform:translateY(-80px);opacity:0}}
+      .bar{transform-box:fill-box;transform-origin:left center;animation:grow 1.6s ease-out both}
+      @keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    </style>
+  </defs>
+  <rect x="3" y="3" width="474" height="180" rx="12" fill="url(#cbg)" stroke="#7a3320" stroke-width="1.8"/>
+  <rect x="9" y="9" width="462" height="168" rx="8" fill="none" stroke="#3a1a10" stroke-width="1"/>
+  <rect x="3" y="3" width="130" height="180" fill="url(#cshine)" clip-path="url(#cclip)" class="sweep" style="animation-delay:2.25s"/>
+  <circle cx="430" cy="166" r="2" fill="#7a3320" class="rise" style="animation-delay:2.25s"/>
+  <circle cx="452" cy="170" r="1.6" fill="#ff6a3d" class="rise" style="animation-delay:3.65s"/>
+
+  <circle cx="26" cy="29" r="4" fill="#7a3320" class="pulse" style="animation-delay:2.25s"/>
+  <rect x="38" y="19" width="58" height="20" rx="5" fill="#251410" stroke="#7a3320" stroke-width="1"/>
+  <text x="67" y="33" font-family="'Courier New',Consolas,monospace" font-size="10" font-weight="bold" fill="#c9aa9c" text-anchor="middle">RARE</text>
+  <text x="458" y="33" font-family="'Courier New',Consolas,monospace" font-size="11" font-weight="bold" fill="#ff6a3d" text-anchor="end">#306 / 1,349</text>
+
+  <text x="22" y="70" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="20" font-weight="bold" fill="#fff1e0">Support Triage Agent</text>
+  <text x="22" y="96" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="13" fill="#c9aa9c">Multi-domain ticket triage with hybrid semantic + keyword.</text>
+  <text x="22" y="115" font-family="'Trebuchet MS','Segoe UI',sans-serif" font-size="13" fill="#c9aa9c">FAISS + BM25 + CrossEncoder reranking before escalation.</text>
+
+  <line x1="22" y1="136" x2="458" y2="136" stroke="#3a1a10" stroke-width="1"/>
+  <text x="22" y="158" font-family="'Courier New',Consolas,monospace" font-size="11" fill="#ffb347">FAISS · BM25 · CrossEncoder</text>
+  <rect x="328" y="149" width="130" height="8" rx="4" fill="#0d0605" stroke="#5c2818" stroke-width="1"/>
+  <rect x="328" y="149" width="101" height="8" rx="4" fill="url(#cbar)" class="bar"/>
+</svg>
