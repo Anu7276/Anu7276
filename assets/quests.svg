@@ -47,7 +47,7 @@
   <!-- Header Strip -->
   <circle cx="30" cy="33" r="5" fill="#ff3b30" class="pulse"/>
   <text x="44" y="37" font-family="'Courier New',Consolas,Menlo,monospace" font-size="12" font-weight="bold" fill="#ffb347" letter-spacing="2">QUEST BOARD // FEATURED DEPLOYMENTS</text>
-  <text x="970" y="37" font-family="'Courier New',Consolas,Menlo,monospace" font-size="11" fill="#c9aa9c" text-anchor="end">11 MAIN · 12 SIDE QUESTS</text>
+  <text x="970" y="37" font-family="'Courier New',Consolas,Menlo,monospace" font-size="11" fill="#c9aa9c" text-anchor="end">10 MAIN · 11 SIDE QUESTS</text>
   <line x1="24" y1="50" x2="976" y2="50" stroke="#4a2015" stroke-width="1"/>
 
   <!-- BOSS QUEST BANNER -->

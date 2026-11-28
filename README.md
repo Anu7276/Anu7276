@@ -121,7 +121,7 @@ Firecrawl ingestion + agent chain generating competitor gaps, 21-day calendars &
 </table>
 
 <details>
-<summary><b>🗺️ Open Quest Archive — 6 More Main Quests (Hackathons &amp; Full-Stack)</b></summary>
+<summary><b>🗺️ Open Quest Archive — 5 More Main Quests (Hackathons &amp; Full-Stack)</b></summary>
 
 <div align="center">
 
@@ -132,7 +132,6 @@ Firecrawl ingestion + agent chain generating competitor gaps, 21-day calendars &
 | 📑 **ProcureMind AI** | SIH | Recommends Indian Standards (BIS) for procurement tenders | Python · RAG · LLMs | [💻 Repo](https://github.com/Anu7276/ProcureMind_AI) |
 | 💸 **AI Financial Agent** | HackerRank Orchestrate | "Buy or Wait?" — deterministic math + Claude NL extraction | Python · Claude · Rules Engine | [💻 Repo](https://github.com/Anu7276/AI-powered-financial-agent) |
 | 🎓 **College Discovery** | Full-Stack Internship | Search, browse & compare colleges built in a few days | Full Stack · REST APIs | [💻 Repo](https://github.com/Anu7276/College-Discovery-Platform) |
-| 🎲 **Board Game Platform** | Architecture Comparison | Ludo + Snake & Ladder built twice (MERN vs Next/Bun WS) | React · Next.js · Prisma · Bun | — |
 
 </div>
 
@@ -141,7 +140,7 @@ Firecrawl ingestion + agent chain generating competitor gaps, 21-day calendars &
 <img src="assets/h_more.svg" alt="Side Quests" width="100%"/>
 
 <details>
-<summary><b>Open the full side-quest list (12 repos)</b></summary>
+<summary><b>Open the full side-quest list (11 repos)</b></summary>
 
 <div align="center">
 
@@ -158,7 +157,6 @@ Firecrawl ingestion + agent chain generating competitor gaps, 21-day calendars &
 | [Shoes_Store](https://github.com/Anu7276/Shoes_Store) | E-commerce shoe store frontend |
 | [fitness-gym](https://github.com/Anu7276/fitness-gym) | Fitness and gym website |
 | [Mario_game](https://github.com/Anu7276/Mario_game) | Mario-style browser game |
-| [JS-practice](https://github.com/Anu7276/JS-practice) | JavaScript practice and exercises |
 
 </div>
 
