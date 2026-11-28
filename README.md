@@ -70,151 +70,73 @@ const anurag = {
 
 <img src="assets/h_projects.svg" alt="Quest Log" width="100%"/>
 
+<img src="assets/quests.svg" alt="Quest Board — Boss and Featured Quests" width="100%"/>
+
 <table>
 <tr>
-<td width="100%">
+<td colspan="2">
 
-#### ⚡ Startup-AYUSH Portal — SIH1345 &nbsp;`👑 BOSS QUEST`
-**Smart India Hackathon 2026 · Team MindMesh · Ministry of AYUSH**
-
-A stakeholder collaboration platform built for the Ministry of AYUSH, bringing startups, investors, incubators, accelerators, and government agencies onto one platform to network, find mentorship, and showcase opportunities.
-
-The standout feature is an **AI startup pitch evaluation system**, modeled on HackerRank's own interview format: a founder uploads their pitch deck, a Gemini-powered intake agent reads it directly (multimodal, no separate text extraction step) and cross-checks it against the market via web search, then the founder goes through a live ~20-minute **voice-based interview** combining fixed evaluation criteria with adaptive, agent-led follow-up questions. Sessions are scored out of 30 across pitch, profile, and Q&A performance; scores above the threshold make the startup visible to investors, while others are routed to a mentor. The whole flow is grounded with a FAISS RAG layer for consistent, fact-checked scoring.
-
-**Stack:** Gemini · Groq · FAISS (RAG) · Voice AI
-**Links:** [🔗 Live Demo](https://sih-hackathon-internal.vercel.app/) · [💻 Repo](https://github.com/Anu7276/SIH-hackthon-INTERNAL-)
+#### 👑 BOSS QUEST · ⚡ Startup-AYUSH Portal (SIH1345) — `Smart India Hackathon 2026 · Team MindMesh`
+Stakeholder hub for the Ministry of AYUSH with a **multimodal pitch-deck intake agent**, web-grounded market check, and a **~20-min adaptive AI voice interview** scored `/30` via FAISS RAG.
+`Gemini` · `Groq` · `FAISS` · `Voice AI` &nbsp;—&nbsp; [🔗 Live Demo](https://sih-hackathon-internal.vercel.app/) · [💻 Repo](https://github.com/Anu7276/SIH-hackthon-INTERNAL-)
 
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-#### 🎙️ VIVORA
-**AI viva & interview preparation platform**
+#### 🏆 Insurance Claim Verifier `MYTHIC`
+**HackerRank Orchestrate · #119 / 1,773 (Top 7%)**
+Jointly reasons over text, images & docs with disk caching — **100% accuracy** & direct HackerRank outreach.
+`Groq` · `Gemini 2.5 Flash` · `Multimodal`
 
-A multi-agent platform for viva and interview practice with separate school, college, and candidate modes, structured around ~30-minute sessions. Specialized agents drive the conversation flow so each session feels like a real examiner or interviewer rather than a static question bank.
+</td>
+<td width="50%" valign="top">
 
-**Stack:** Multi-Agent Systems · LLMs · Frontend
-**Links:** [💻 VIVORA](https://github.com/Anu7276/VIVORA) · [🖥️ Frontend](https://github.com/Anu7276/vivora-frontend)
+#### 🤖 Maya — Personal AI Agent `LEGENDARY`
+**Flagship Desktop Assistant**
+Full voice pipeline + ChromaDB/SQLite memory + real Windows tool control.
+`Llama 3.3 70B` · `ChromaDB` · `Whisper` · [💻 Repo](https://github.com/Anu7276/maya)
 
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-#### 📑 ProcureMind AI
-**Indian Standard Recommendation Engine · SIH**
-
-An AI system that recommends the right Indian Standards (BIS) for procurement and tenders, backed by a knowledge base of standards so buyers can quickly find which specifications apply to what they are purchasing.
-
-**Stack:** Python · RAG · LLMs
-**Links:** [💻 Repo](https://github.com/Anu7276/ProcureMind_AI)
+#### 🎙️ VIVORA `EPIC`
+**AI Viva & Interview Simulator**
+Multi-agent examiner driving ~30-min adaptive school, college & candidate sessions.
+`Multi-Agent` · `LLMs` · [💻 Core](https://github.com/Anu7276/VIVORA) · [🖥️ UI](https://github.com/Anu7276/vivora-frontend)
 
 </td>
-</tr>
-<tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-#### 🚨 Community Hero
-**Vibe2Ship Hackathon**
-
-An AI-powered civic issue reporting platform that lets citizens report problems and tracks them through resolution in real time, deployed live on Google Cloud Run. Beyond the working product, I built out full pitch materials (a proposal PDF and pitch deck), framing it as a real B2G SaaS play with licensing and government pilot partnerships, not just a hackathon demo.
-
-**Stack:** React · Node.js · Gemini 2.5 Flash · Firestore · Socket.io
-**Links:** [💻 Repo](https://github.com/Anu7276/community-hero)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🏆 Multimodal Insurance Claim Verification Pipeline
-**HackerRank Orchestrate — Global Rank #119 / 1,773 (Top ~7%)**
-
-A pipeline that verifies insurance claims by reasoning jointly over text, images, and documents, combining Groq for fast reasoning with Gemini 2.5 Flash for multimodal understanding. Disk-based caching kept repeated evaluations fast and cheap, and the final pipeline hit **100% accuracy** on the evaluation set, the result that pushed the project into the top 7% globally and led to direct recruiting outreach from HackerRank.
-
-**Stack:** Groq · Gemini 2.5 Flash · Multimodal Reasoning · Disk Caching
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🎧 Multi-Domain Support Triage Agent
-**HackerRank Orchestrate — Rank #306 / 1,349**
-
-A support triage agent that handles tickets across multiple domains using a hybrid retrieval stack: FAISS for semantic search, BM25 for keyword matching, and a CrossEncoder to rerank results before answering or escalating.
-
-**Stack:** FAISS · BM25 · CrossEncoder · Python
-**Links:** [💻 Repo](https://github.com/Anu7276/ai-support-triage-pro-hackerRank-hackthon-)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 💸 AI-Powered Financial Agent
-**HackerRank Orchestrate — "Buy or Wait?"**
-
-An AI financial affordability decision engine: deterministic logic handles the actual money math, while Claude is used for extracting details from natural-language input, so the final recommendation stays consistent and explainable.
-
-**Stack:** Python · Claude · Deterministic Rules Engine
-**Links:** [💻 Repo](https://github.com/Anu7276/AI-powered-financial-agent)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🤖 Maya — Personal AI Assistant
-**Flagship personal project**
-
-A personal AI assistant built around Groq/Llama 3.3 70B, with ChromaDB for long-term memory, SQLite for structured state, and a full voice pipeline (Faster-Whisper for input, Edge-TTS for output). What started as a conversational assistant later grew into a Windows-based **agentic system** capable of real-time tool use and direct system control: not just answering questions, but actually taking action on the machine.
-
-**Stack:** Groq · Llama 3.3 70B · ChromaDB · SQLite · Edge-TTS · Faster-Whisper
-**Links:** [💻 Repo](https://github.com/Anu7276/maya)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 📈 CAMPAIGNIX
-**AI marketing automation for Indian SMBs & D2C brands**
-
-A multi-agent backend that turns a brand's basic info into a full "Marketing Intelligence & Campaign Strategy" PDF report, automatically. The pipeline runs a Firecrawl-based ingestion stage, then a chain of specialized agents (orchestrator, copywriting, creative brief, domain-specific modules for beauty/travel/etc.) that together produce brand intelligence, a competitor gap analysis, a 21-day content calendar, and per-post copywriting and creative production briefs, compiled into one polished report.
-
-**Stack:** Python · Firecrawl · Multi-Agent Systems · PDF Generation
-**Links:** [💻 Repo](https://github.com/pranav2312-cmd/Campaignix)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🎓 College Discovery Platform
-**Full-stack internship task**
-
-A college discovery platform built as a full-stack screening task, designed and shipped in a few days with search, browsing, and comparison of colleges.
-
-**Stack:** Full Stack · REST APIs
-**Links:** [💻 Repo](https://github.com/Anu7276/College-Discovery-Platform)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-#### 🎲 Multiplayer Board Game Platform
-**Ludo + Snake & Ladder**
-
-Built twice, deliberately: first as a React / Node.js / Socket.io real-time multiplayer app, then rebuilt on a modern stack (Next.js, TypeScript, Prisma, and Bun WebSockets) to compare architectures and push for better performance and type safety.
-
-**Stack:** React · Next.js · TypeScript · Prisma · Bun WebSockets · Socket.io
+#### 📈 CAMPAIGNIX `EPIC`
+**AI Marketing Automation for SMBs & D2C**
+Firecrawl ingestion + agent chain generating competitor gaps, 21-day calendars & PDF briefs.
+`Python` · `Firecrawl` · `Multi-Agent` · [💻 Repo](https://github.com/pranav2312-cmd/Campaignix)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>🗺️ Open Quest Archive — 6 More Main Quests (Hackathons &amp; Full-Stack)</b></summary>
+
+<div align="center">
+
+| Quest | Event / Type | What it does | Stack | Link |
+|:---|:---|:---|:---|:---|
+| 🚨 **Community Hero** | Vibe2Ship · Cloud Run | Real-time civic issue tracker + full B2G SaaS pitch deck | React · Node · Gemini · Firestore | [💻 Repo](https://github.com/Anu7276/community-hero) |
+| 🎧 **Support Triage Agent** | HackerRank `#306 / 1,349` | Hybrid semantic + keyword ticket triage & escalation | FAISS · BM25 · CrossEncoder | [💻 Repo](https://github.com/Anu7276/ai-support-triage-pro-hackerRank-hackthon-) |
+| 📑 **ProcureMind AI** | SIH | Recommends Indian Standards (BIS) for procurement tenders | Python · RAG · LLMs | [💻 Repo](https://github.com/Anu7276/ProcureMind_AI) |
+| 💸 **AI Financial Agent** | HackerRank Orchestrate | "Buy or Wait?" — deterministic math + Claude NL extraction | Python · Claude · Rules Engine | [💻 Repo](https://github.com/Anu7276/AI-powered-financial-agent) |
+| 🎓 **College Discovery** | Full-Stack Internship | Search, browse & compare colleges built in a few days | Full Stack · REST APIs | [💻 Repo](https://github.com/Anu7276/College-Discovery-Platform) |
+| 🎲 **Board Game Platform** | Architecture Comparison | Ludo + Snake & Ladder built twice (MERN vs Next/Bun WS) | React · Next.js · Prisma · Bun | — |
+
+</div>
+
+</details>
 
 <img src="assets/h_more.svg" alt="Side Quests" width="100%"/>
 
